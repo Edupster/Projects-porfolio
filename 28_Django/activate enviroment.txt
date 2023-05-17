@@ -1,0 +1,3 @@
+create an env python -m venv
+
+activate env .\my_django\Scripts\activate

@@ -1,0 +1,15 @@
+_______________________________Tasks overview_______________________________
+
+
+Total of tasks:                  2
+
+Tasks completed:                0
+
+Tasks uncompleted:               2
+
+Overdue tasks:                   0
+
+Percent of tasks uncompleted:    100.0
+
+Percent of tasks overdue:        0.0
+

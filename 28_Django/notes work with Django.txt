@@ -1,0 +1,20 @@
+(create an env) python -m env
+
+(activate env) .\my_django\Scripts\activate
+
+(change directory) cd C:\Users\sotom\my_django
+
+(template directory) C:\Users\sotom\my_django\Lib\site-packages\django\contrib\admin\templates
+
+
+
+ STATIC_URL = '/static/'
+STATICFILES_DIRS = [
+    os.path.join(BASE_DIR, 'personal/static')
+]
+
+
+TEMPLATES = [
+    {
+        'BACKEND': 'django.template.backends.django.DjangoTemplates',
+        'DIRS': [os.path.join(BASE_DIR,'personal/templates')]

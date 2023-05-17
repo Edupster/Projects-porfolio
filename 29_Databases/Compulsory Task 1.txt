@@ -1,0 +1,36 @@
+Answer the following questions:
+1. Define each of the following terms:
+
+a) Data
+Data is raw and unorganized information without any kind of classification.
+
+b) Field
+Field is the data that has been organized or classified.
+
+c) Record
+Record is a connected group of fields.
+
+d) File
+A file is a collection of related records.
+
+2. What is a DBMS and what are its advantages?
+(Database Management System) is a database that works along with a system (programs) 
+that manages the database's structure and controls its access.
+
+3. Explain the difference between data and information.
+Data can be any kind of information in a raw way, this information is mean less unless is.
+interpreted and classified meanwhile information is the result of analysing and interpreting
+pieces of data.
+
+4. What is metadata?
+Metadata is data that provides information about other data, it provides reference that helps to 
+identify attributes of the information that describes.
+
+5. Given the file below, answer the following questions:
+
+e) How many records does the file contain?
+The file contains 4 records.
+
+f) How many fields are there per record?
+Each record contains 5 fields.
+

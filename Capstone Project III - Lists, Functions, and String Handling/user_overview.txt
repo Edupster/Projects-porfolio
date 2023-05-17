@@ -1,0 +1,17 @@
+_______________________________Users overview_______________________________
+
+Total of users registered:          1
+
+Tasks registered:                   2
+_______________________________admin_______________________________
+
+Tasks:                                        2
+
+Percentage of the total tasks assigned:       100.0%
+
+Percentage of task completed:                 0.0%
+
+Percentage of task pending to be completed:  100.0%
+
+Percentage of task overdue to be completed:  100.0%
+

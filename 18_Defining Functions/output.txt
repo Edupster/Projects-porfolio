@@ -1,0 +1,7 @@
+The min of [1, 2, 3, 5, 6] is 1
+The maxn of [1, 2, 3, 5, 6] is 6
+The avg of [1, 2, 3, 5, 6] is 3.4
+The 90th percentil of [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] is 9
+The min of [1, 5, 6, 14, 24] is 1
+The maxn of [2, 3, 9] is 9
+The 70th percentil of [1, 2, 3] is 3

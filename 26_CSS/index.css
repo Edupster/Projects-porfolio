@@ -1,0 +1,30 @@
+#mainHeading {
+    text-align: center;
+    font-size: 2em;
+    color: rgb(255, 255, 255);
+    margin-bottom: .3em;
+    background-color: rgb(48, 200, 226);
+}
+
+
+#subHeading {
+    text-align: center;
+    font-size: 1em;
+    color: rgb(7, 7, 15);
+    margin-bottom: .3em;
+    background-color: rgb(233, 207, 63);
+}
+
+#Bio, #conDetails, #Skills, #Education, #workEsperience, #Projects, #Links {
+    text-decoration: underline;
+}
+
+#bioContent, #condetails {
+    
+    text-align: justify;
+    background-color: rgb(243, 243, 243);
+}
+
+
+
+
